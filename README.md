@@ -2,6 +2,10 @@
 
 Este repositório contém os materiais e projetos desenvolvidos no **Curso de Desenvolvimento de Sistemas** da Escola Técnica Estadual Cícero Dias. O curso é voltado para a formação de profissionais capacitados para atuar no mercado de tecnologia, com ênfase em desenvolvimento de software e sistemas.
 
+<p align="center">
+<img src="./img/índice.jpeg" alt="Exemplo de Imagem" width="75%" height="60%">
+</p>
+
 ## 📚 Conteúdo do Repositório
 
 - **Aulas e Materiais Didáticos**: Arquivos e links para os conteúdos abordados durante o curso.

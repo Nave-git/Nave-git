@@ -51,3 +51,6 @@ Para dúvidas ou mais informações sobre o curso, entre em contato:
 
 - ## Envio dos cursos extra-curricular
 - coord.polo.etc@gmail.com
+
+- ## Cursos livres
+- **Site**: https://www.escolavirtual.gov.br/curso/247

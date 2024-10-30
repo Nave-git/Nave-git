@@ -48,3 +48,6 @@ Para dúvidas ou mais informações sobre o curso, entre em contato:
 - **Email**: etecicerodias@nave.org.br
 - **Site**: [ETEC Cícero Dias](https://www.etecicerodias.edu.br)
 - **Telefone**: (81) 1234-5678
+
+- ## Envio dos cursos extra-curricular
+- coord.polo.etc@gmail.com
